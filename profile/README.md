@@ -1,6 +1,6 @@
 ## The Web Is Decadent and Depraved
 
-Gonzo Engineering is a project devoted to building free, open source tools for the benefit of journalists, musicians, and other creatives. It is guided by the principle that technology should work in support of artists - not instead of them.
+Gonzo Engineering is a project devoted to building free, open source tools for the benefit of journalists, musicians, and other creatives. It is guided by the principle that technology should work in support of keen minds - not instead of them.
 
 <!--
 
