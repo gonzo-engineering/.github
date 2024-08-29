@@ -5,9 +5,9 @@ Gonzo Engineering is a project devoted to building free, open source tools for t
 Ventures so far:
 
 - **[teeline.online](https://teeline.online)**, an interactive learning site for Teeline shorthand
-- **[Soli](https://github.com/gonzo-engineering/soli)**, a 'just add water' toolkit for making immersive musician websites
+- **[Soli](https://github.com/gonzo-engineering/soli)**, a 'just add water' toolkit for immersive musician websites
 
-Support the development of these tools and more over at [Open Collective](https://opencollective.com/gonzo-engineering) or by [buying me a coffee](https://ko-fi.com/frederickobrien).
+Support the development of these tools and more by becoming a backer on [Open Collective](https://opencollective.com/gonzo-engineering).
 
 <!--
 
