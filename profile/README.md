@@ -11,10 +11,6 @@ Support the development of these tools and more by [buying me a coffee](https://
 
 Want to collaborate? [Get in touch](mailto:frederik.obrien@gmail.com) or get involved.
 
-In solidarity,
-
-[Frederick](https://frederickobrien.com)
-
 <!--
 
 **Here are some ideas to get you started:**
