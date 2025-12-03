@@ -4,7 +4,7 @@ Gonzo Engineering is a project devoted to building free, open source tools for t
 
 Ventures so far:
 
-- **[Soli](https://soli.network)**, music streaming that doesn't fuck musicians
+- **[Soli](https://soli.network)**, music streaming with direct, transparent remuneration
 - **[teeline.online](https://teeline.online)**, an interactive learning site for Teeline shorthand
 - **[Skene](https://github.com/gonzo-engineering/skene)**, a 'just add water' template for building musician websites
 - **[Dummy](https://github.com/gonzo-engineering/dummy)**, a miniature tech stack for shoestring news publishing
